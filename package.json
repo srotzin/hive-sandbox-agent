@@ -1,0 +1,15 @@
+{
+  "name": "hive-sandbox-agent",
+  "version": "1.0.0",
+  "description": "Developer sandbox — safe testing environment, mock data, API playground, integration testing",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "uuid": "^10.0.0"
+  }
+}
